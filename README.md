@@ -32,12 +32,22 @@
 <br/>
 
 <div align="center">
-  <img 
-    height="180em"
-    src="https://streak-stats.demolab.com/?user=ziyan-cs&theme=dark&background=1e1e1e&ring=4ecdc4&fire=ff6b6b&currStreakLabel=4ecdc4&border=ffffff"
-  />
-  <img 
-    height="180em"
-    src="https://stats.programcx.cn/api?username=ziyan-cs&show_icons=true&hide_border=false&bg_color=1e1e1e&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff&ring_color=4ecdc4&include_all_commits=true&count_private=true"
-  />
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="50%" style="padding-right: 10px;">
+        <img 
+          src="https://streak-stats.demolab.com/?user=ziyan-cs&theme=dark&background=1e1e1e&ring=4ecdc4&fire=ff6b6b&currStreakLabel=4ecdc4&border=ffffff" 
+          width="100%" 
+          height="195"
+        />
+      </td>
+      <td width="50%" style="padding-left: 10px;">
+        <img 
+          src="https://stats.programcx.cn/api?username=ziyan-cs&show_icons=true&hide_border=false&bg_color=1e1e1e&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff&ring_color=4ecdc4&include_all_commits=true&count_private=true" 
+          width="100%" 
+          height="195"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
