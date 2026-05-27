@@ -30,12 +30,3 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,obsidian,cmake,postgresql,py" />
   </a>
 </div>
-
-<!-- 全屏语言卡片 -->
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=ziyan-cs&theme=dark&background=1e1e1e&ring=4ecdc4&fire=ff6b6b&currStreakLabel=4ecdc4&border=ffffff"
-    width="100%"
-    height="195"
-  >
-</p>
