@@ -5,7 +5,7 @@
 <p align="center">
   🔭 &nbsp;Building <a href="https://github.com/ziyan-cs/webserver-cpp"><strong>webserver-cpp</strong></a> &nbsp;·&nbsp;
   🌱 &nbsp;Learning Redis · Docker &nbsp;·&nbsp;
-  🎯 &nbsp;2026 Backend Engineering
+  🎯 &nbsp;2029 Backend Engineering
 </p>
 
 <br/>
@@ -20,10 +20,6 @@
   <a href="https://github.com/ziyan-cs/webserver-cpp"><img src="https://img.shields.io/badge/webserver--cpp-3d5af1?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
-
-<h2 align="center"> ⚒️ Languages · Tools ⚒️ </h2>
-
 <br/>
 
 <div align="center">
@@ -35,22 +31,22 @@
 
 <br/>
 
----
-
-<h2 align="center"> 📈 Contribution Stats 📈 </h2>
-
-<br/>
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>
-        <img src="https://streak-stats.demolab.com/?user=ziyan-cs&theme=dark&background=1e1e1e&ring=4ecdc4&fire=ff6b6b&currStreakLabel=4ecdc4&border=ffffff" height="195" />
-      </td>
-      <td>&nbsp;&nbsp;</td>
-      <td>
-        <img src="https://stats.programcx.cn/api?username=ziyan-cs&show_icons=true&hide_border=false&bg_color=1e1e1e&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff&ring_color=4ecdc4&include_all_commits=true&count_private=true" height="195" />
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="49%">
+      <img 
+        src="https://streak-stats.demolab.com/?user=ziyan-cs&theme=dark&background=1e1e1e&ring=4ecdc4&fire=ff6b6b&currStreakLabel=4ecdc4&border=ffffff" 
+        width="100%"
+        height="195"
+      />
+    </td>
+    <td width="2%"></td>
+    <td width="49%">
+      <img 
+        src="https://stats.programcx.cn/api?username=ziyan-cs&show_icons=true&hide_border=false&bg_color=1e1e1e&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff&ring_color=4ecdc4&include_all_commits=true&count_private=true" 
+        width="100%"
+        height="195"
+      />
+    </td>
+  </tr>
+</table>
