@@ -26,7 +26,7 @@
 <!-- skill-icons -->
 <div align="center">
   <a href="https://github.com/MakroCoded/skill-icons-old">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,linux,bash,mysql,redis,docker" /><br/><br/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,obsidian,cmake,postgresql,py" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,linux,bash,mysql" /><br/><br/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,obsidian,cmake" />
   </a>
 </div>
