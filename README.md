@@ -13,11 +13,11 @@
 <!-- 按钮行 -->
 <br/>
 <p align="center">
-  <a href="https://ziyan-cs.github.io"><img src="https://img.shields.io/badge/Blog-5b9cf6?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="https://juejin.cn/user/3594721929472731"><img src="https://img.shields.io/badge/Blog-5b9cf6?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
   &nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Resume-7b7bff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
   &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Gitee-a07fff?style=for-the-badge&logo=gitee&logoColor=white" /></a>
+  <a href="https://gitee.com/ziyan-cs"><img src="https://img.shields.io/badge/Gitee-a07fff?style=for-the-badge&logo=gitee&logoColor=white" /></a>
   &nbsp;
   <a href="https://github.com/ziyan-cs/webserver-cpp"><img src="https://img.shields.io/badge/webserver--cpp-3d5af1?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
