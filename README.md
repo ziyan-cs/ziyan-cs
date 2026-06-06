@@ -6,7 +6,7 @@
 <!-- 自我介绍 -->
 <p align="center">
   🔭 &nbsp;Building <a href="https://github.com/ziyan-cs/webserver-cpp"><strong>webserver-cpp</strong></a> &nbsp;·&nbsp;
-  ⚙️ &nbsp;Linux Systems &nbsp;·&nbsp;
+  🌱 &nbsp;Learning Thread Pool & HTTP &nbsp;·&nbsp;
   🎯 &nbsp;2029 Backend Engineering
 </p>
 
