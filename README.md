@@ -5,9 +5,8 @@
 
 <!-- 自我介绍 -->
 <p align="center">
-  🔭 &nbsp;Building <a href="https://github.com/ziyan-cs/webserver-cpp"><strong>webserver-cpp</strong></a> &nbsp;·&nbsp;
-  🌱 &nbsp;Learning Thread Pool & HTTP &nbsp;·&nbsp;
-  🎯 &nbsp;2029 Backend Engineering
+  🔨 &nbsp;Building <a href="https://github.com/ziyan-cs/webserver-cpp"><strong>webserver-cpp</strong></a> &nbsp;·&nbsp;
+  🌱 &nbsp;Exploring networking and system programming
 </p>
 
 <!-- 按钮行 -->
@@ -26,7 +25,8 @@
 <!-- skill-icons -->
 <div align="center">
   <a href="https://github.com/MakroCoded/skill-icons-old">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,linux,bash,mysql" /><br/><br/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,obsidian,cmake" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,linux,git,cmake" /><br/><br/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=bash,github,vscode,obsidian,mysql" />
   </a>
 </div>
+
